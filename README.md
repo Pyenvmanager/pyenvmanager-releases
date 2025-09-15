@@ -15,23 +15,7 @@ Think *“Docker Desktop for Python environments.”*
 - **Windows** (.exe installer)  
 - **macOS** (.dmg installer, signed & notarized)
 
----
 
-## ℹ️ Notes
-
-- On **Windows**, SmartScreen may warn because the app is unsigned.  
-  → Click **More Info → Run Anyway** to proceed.  
-
-- On **macOS**, Gatekeeper may block the app on first launch.  
-  → Right-click the app and choose **Open**.  
-
-- Vulnerability scanning uses the [OSV.dev](https://osv.dev) API.  
-  Some CVEs may show incomplete metadata (fix version pending).  
-
-- Micromamba may show a legal warning about `repo.anaconda.com`.  
-  Commercial users should review [Anaconda’s Terms of Service](https://legal.anaconda.com/policies/en/).  
-
----
 
 ## 🔑 Licensing
 
@@ -53,6 +37,24 @@ This repo is **for releases only**.
 - 🌐 Website: [pyenvmanager.com](https://pyenvmanager.com)  
 - 📦 PyPI security data: [OSV.dev](https://osv.dev)  
 - 📣 Community: [r/Python on Reddit](https://reddit.com/r/Python)  
+
+---
+
+---
+
+## ℹ️ Notes
+
+- On **Windows**, SmartScreen may warn because the app is unsigned.  
+  → Click **More Info → Run Anyway** to proceed.  
+
+- On **macOS**, Gatekeeper may block the app on first launch.  
+  → Right-click the app and choose **Open**.  
+
+- Vulnerability scanning uses the [OSV.dev](https://osv.dev) API.  
+  Some CVEs may show incomplete metadata (fix version pending).  
+
+- Micromamba may show a legal warning about `repo.anaconda.com`.  
+  Commercial users should review [Anaconda’s Terms of Service](https://legal.anaconda.com/policies/en/).  
 
 ---
 
